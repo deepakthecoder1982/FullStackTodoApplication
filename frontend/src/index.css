@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+background:rgb(11, 19, 35);
+/* color: hwb(217 12% 77%); */
+}
+.todoList{
+    background: rgb(11, 19, 35);
+}
